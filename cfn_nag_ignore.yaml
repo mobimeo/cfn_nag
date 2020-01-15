@@ -1,0 +1,6 @@
+---
+RulesToSuppress:
+- id: W28
+  reason: |
+    "The Benefits of a custom name offset the rare cases, where we need
+     resource replacement"
