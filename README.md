@@ -39,5 +39,6 @@ cfn-nag-parm() { docker run --rm -v "$PWD:/templates" -t moovel/cfn_nag "templat
 
 Build a local version, instead of fetching the container from docker hub.
 
+
 `docker build -t moovel/cfn_nag:local .`
 
