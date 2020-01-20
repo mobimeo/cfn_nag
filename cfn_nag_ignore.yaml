@@ -4,3 +4,7 @@ RulesToSuppress:
   reason: |
     "The Benefits of a custom name offset the rare cases, where we need
      resource replacement"
+- id: F24
+  reason: |
+    "I do not see a reason why the username can not be defined in plaintext.
+    It is not a password."
